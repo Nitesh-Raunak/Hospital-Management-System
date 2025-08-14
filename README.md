@@ -56,5 +56,9 @@ A patient visits the hospital and is registered through the HMS. The doctor acce
 
 
 
+# we will do work soon ...
+
+
+
 
 
