@@ -24,10 +24,25 @@ Here are the core modules typically included in a hospital management system:
 
 🛠️ Technologies Used
 Depending on the scope and platform, the project may use:
-- Frontend: HTML, CSS, JavaScript
-- Backend: C#
-- Database: MySQL,SQL Server
-- Other Tools: REST APIs, Git, Docker (optional)
+
+Frontend: React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS for utility-first styling, and optional UI component libraries (e.g., Headless UI, DaisyUI).
+
+Backend: Node.js with Express.js for building RESTful APIs and handling server-side logic.
+
+Database: MongoDB (with Mongoose ODM for schema modeling and data validation).
+
+AI Integration: OpenAI API (or similar AI services) for natural language processing, machine learning models, or intelligent automation features.
+
+Other Tools & Services:
+
+Git & GitHub for version control and collaboration.
+
+Docker (optional) for containerized development and deployment.
+
+Postman for API testing.
+
+Cloud hosting platforms like Vercel, Netlify (frontend), or Render/Heroku (backend).
+  
   
 📈 Benefits
 - Faster and more accurate patient care
